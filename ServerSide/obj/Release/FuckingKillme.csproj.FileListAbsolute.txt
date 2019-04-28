@@ -1,0 +1,6 @@
+C:\Users\Alexis\Desktop\CS 440\NetworkCode\FuckingKillme\bin\Release\FuckingKillme.exe.config
+C:\Users\Alexis\Desktop\CS 440\NetworkCode\FuckingKillme\bin\Release\FuckingKillme.exe
+C:\Users\Alexis\Desktop\CS 440\NetworkCode\FuckingKillme\bin\Release\FuckingKillme.pdb
+C:\Users\Alexis\Desktop\CS 440\NetworkCode\FuckingKillme\obj\Release\FuckingKillme.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Desktop\CS 440\NetworkCode\FuckingKillme\obj\Release\FuckingKillme.exe
+C:\Users\Alexis\Desktop\CS 440\NetworkCode\FuckingKillme\obj\Release\FuckingKillme.pdb

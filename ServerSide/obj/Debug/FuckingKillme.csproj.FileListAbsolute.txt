@@ -1,0 +1,35 @@
+C:\Users\Alexis\Desktop\CS 440\NetworkCode\FuckingKillme\bin\Debug\FuckingKillme.exe.config
+C:\Users\Alexis\Desktop\CS 440\NetworkCode\FuckingKillme\bin\Debug\FuckingKillme.exe
+C:\Users\Alexis\Desktop\CS 440\NetworkCode\FuckingKillme\bin\Debug\FuckingKillme.pdb
+C:\Users\Alexis\Desktop\CS 440\NetworkCode\FuckingKillme\obj\Debug\FuckingKillme.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Desktop\CS 440\NetworkCode\FuckingKillme\obj\Debug\FuckingKillme.exe
+C:\Users\Alexis\Desktop\CS 440\NetworkCode\FuckingKillme\obj\Debug\FuckingKillme.pdb
+C:\Users\Alexis\Desktop\CS 440\NetworkCode\FuckingKillme\obj\Debug\FuckingKillme.csprojAssemblyReference.cache
+C:\Users\Alexis\Desktop\CS 440\Code\NetworkCode\FuckingKillme\bin\Debug\FuckingKillme.exe.config
+C:\Users\Alexis\Desktop\CS 440\Code\NetworkCode\FuckingKillme\bin\Debug\FuckingKillme.exe
+C:\Users\Alexis\Desktop\CS 440\Code\NetworkCode\FuckingKillme\bin\Debug\FuckingKillme.pdb
+C:\Users\Alexis\Desktop\CS 440\Code\NetworkCode\FuckingKillme\obj\Debug\FuckingKillme.csprojAssemblyReference.cache
+C:\Users\Alexis\Desktop\CS 440\Code\NetworkCode\FuckingKillme\obj\Debug\FuckingKillme.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Desktop\CS 440\Code\NetworkCode\FuckingKillme\obj\Debug\FuckingKillme.exe
+C:\Users\Alexis\Desktop\CS 440\Code\NetworkCode\FuckingKillme\obj\Debug\FuckingKillme.pdb
+C:\Users\leone\OneDrive\Desktop\CS440\Coding Project\Code\NetworkCode\FuckingKillme\bin\Debug\FuckingKillme.exe.config
+C:\Users\leone\OneDrive\Desktop\CS440\Coding Project\Code\NetworkCode\FuckingKillme\bin\Debug\FuckingKillme.exe
+C:\Users\leone\OneDrive\Desktop\CS440\Coding Project\Code\NetworkCode\FuckingKillme\bin\Debug\FuckingKillme.pdb
+C:\Users\leone\OneDrive\Desktop\CS440\Coding Project\Code\NetworkCode\FuckingKillme\obj\Debug\FuckingKillme.csprojAssemblyReference.cache
+C:\Users\leone\OneDrive\Desktop\CS440\Coding Project\Code\NetworkCode\FuckingKillme\obj\Debug\FuckingKillme.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Desktop\CS440\Coding Project\Code\NetworkCode\FuckingKillme\obj\Debug\FuckingKillme.exe
+C:\Users\leone\OneDrive\Desktop\CS440\Coding Project\Code\NetworkCode\FuckingKillme\obj\Debug\FuckingKillme.pdb
+C:\Users\leone\OneDrive\Desktop\NetworkCode\FuckingKillme\bin\Debug\FuckingKillme.exe.config
+C:\Users\leone\OneDrive\Desktop\NetworkCode\FuckingKillme\bin\Debug\FuckingKillme.exe
+C:\Users\leone\OneDrive\Desktop\NetworkCode\FuckingKillme\bin\Debug\FuckingKillme.pdb
+C:\Users\leone\OneDrive\Desktop\NetworkCode\FuckingKillme\obj\Debug\FuckingKillme.csprojAssemblyReference.cache
+C:\Users\leone\OneDrive\Desktop\NetworkCode\FuckingKillme\obj\Debug\FuckingKillme.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Desktop\NetworkCode\FuckingKillme\obj\Debug\FuckingKillme.exe
+C:\Users\leone\OneDrive\Desktop\NetworkCode\FuckingKillme\obj\Debug\FuckingKillme.pdb
+C:\Users\Ahel\Desktop\440\New folder\NetworkCode\FuckingKillme\bin\Debug\FuckingKillme.exe.config
+C:\Users\Ahel\Desktop\440\New folder\NetworkCode\FuckingKillme\bin\Debug\FuckingKillme.exe
+C:\Users\Ahel\Desktop\440\New folder\NetworkCode\FuckingKillme\bin\Debug\FuckingKillme.pdb
+C:\Users\Ahel\Desktop\440\New folder\NetworkCode\FuckingKillme\obj\Debug\FuckingKillme.csprojAssemblyReference.cache
+C:\Users\Ahel\Desktop\440\New folder\NetworkCode\FuckingKillme\obj\Debug\FuckingKillme.csproj.CoreCompileInputs.cache
+C:\Users\Ahel\Desktop\440\New folder\NetworkCode\FuckingKillme\obj\Debug\FuckingKillme.exe
+C:\Users\Ahel\Desktop\440\New folder\NetworkCode\FuckingKillme\obj\Debug\FuckingKillme.pdb
